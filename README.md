@@ -1,10 +1,10 @@
--hi i am l10n
+-i am clayvion
 
--i have been programming for 8 years
+-i have been programming since 2017
 
--i can program static websites, some web apps, and a little back end
+-i enjoy web development and some game making
 
--ya thats it
+-i kinda just make whatever i feel like making
 <!---
 l10nexe/l10nexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
